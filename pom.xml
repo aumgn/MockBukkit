@@ -4,7 +4,7 @@
 
 	<groupId>fr.aumgn</groupId>
 	<artifactId>mockbukkit</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>0.1.0</version>
 
 	<name>MockBukkit</name>
 	<description>Bukkit (incomplete) testing library</description>
